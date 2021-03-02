@@ -1,0 +1,4 @@
+name: Keltons-Lib
+version: ${project.version}
+main: com.github.kelton208.keltons_lib.main.Keltons_Lib
+api-version: 1.16
